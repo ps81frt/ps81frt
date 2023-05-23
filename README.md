@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=ps81frt-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ps81frt&theme=onedark&hide_border=true&locale=fr&mode=weekly)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ps81frt&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ps81frt&theme=onedark&hide_border=true&locale=fr&mode=weekly)](https://git.io/streak-stats)
