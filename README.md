@@ -4,9 +4,13 @@
   <img src="https://i.pinimg.com/564x/d8/9a/1d/d89a1d9d3190e26acfbda01f483e4399.jpg" width="500" height="350"/>
 </p>
 
+<!-- 
+
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
+
+-->
 
 <h1 align="center">Yo 👋, moi c’est ps81frt</h1>
 
